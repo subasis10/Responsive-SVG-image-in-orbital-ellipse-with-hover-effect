@@ -1,0 +1,58 @@
+
+  
+ body{
+	background-color: #232325;
+  }
+
+
+
+
+.svg-container { 
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%; 
+	vertical-align: middle; 
+	overflow: hidden; 
+   
+    
+} 
+
+.svg-content { 
+	display: inline-block;
+	position: absolute;
+	top: 10px;
+	left: 0;
+    
+    
+}
+
+#Layer_3:hover .cls-3{
+    fill: #336791 ;
+   
+}
+ #Layer_3:hover .cls-2{
+    stroke:#000000;
+ 
+}
+#Layer_3:hover .cls-7{
+ stroke:#FFFFFF;
+
+ 
+}
+#Layer_3:hover .cls-6{
+    stroke:#FFFFFF;
+    
+    
+   }
+   #Layer_3:hover .cls-5{
+    stroke:#FFFFFF;
+    
+    
+   }
+   #Layer_3:hover .cls-4{
+    stroke:#FFFFFF;
+ 
+    
+   }
+ 
